@@ -1,0 +1,4 @@
+Go is a fast statically types, compiled language
+Go is a general purpose language
+go has built-in testing support
+go is an oop language
